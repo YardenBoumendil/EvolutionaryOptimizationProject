@@ -1,0 +1,6 @@
+pandas~=2.2.1
+eckity~=0.3.4
+matplotlib~=3.6.2
+numpy~=1.26.4
+sympy~=1.12
+openpyxl~=3.0.9
